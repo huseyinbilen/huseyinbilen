@@ -2,8 +2,6 @@
 
 ### Full Stack Developer
 
-- 📫 How to reach me **huseyinxbilen@gmail.com**
-
 <h2>🚀 About Me</h2>
 <ul>
   <li>💻 Full Stack Developer (Backend-focused)</li>
@@ -12,6 +10,8 @@
   <li>🔍 Curious about new technologies and best practices</li>
   <li>🤝 Team-oriented and collaborative</li>
 </ul>
+
+- 📫 How to reach me **huseyinxbilen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

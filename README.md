@@ -2,8 +2,6 @@
 
 ### Full Stack Developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huseyinbilen" alt="huseyinbilen" /></a> </p>
-
 - 📫 How to reach me **huseyinxbilen@gmail.com**
 
 <h2>🚀 About Me</h2>
